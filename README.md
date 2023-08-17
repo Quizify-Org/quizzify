@@ -1,4 +1,4 @@
-# QUIZZIFY
+# QUIZZIFY - AN ONLINE QUIZ ASSESSMENT TOOL
 **Aim**: To simplify learning process and provide an interactive and interesting way to learn through quiz on various subjects.
 
 Team of 3 members worked for 12 days.
